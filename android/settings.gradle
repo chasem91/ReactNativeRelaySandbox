@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeRelaySandbox'
+
+include ':app'
